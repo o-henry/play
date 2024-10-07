@@ -7,6 +7,12 @@
 
 import SwiftUI
 
+class AYO {
+
+}
+
+func method() {}
+
 struct ContentView: View {
     var body: some View {
         VStack {
